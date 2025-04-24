@@ -4,9 +4,8 @@
 <!-- introduction -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Wassup+Stalkers!+😎;+Myself+Shreyyyyy!;&center=true&size=30&color=2C8C84">
-</a>
-
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Wassup+Stalkers!+😎;+Myself+Shreyyyyy!;¢er=true&size=30&color=2C8C84">
+  </a>
 </h1>
 
 <br />
@@ -34,7 +33,6 @@
   <!-- GitHub -->
   <a href="https://github.com/shreyyyyy" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
-
 
 <hr />
 <!-- skills -->
@@ -107,17 +105,19 @@
 <!-- deployment -->
 <h3 align="center">Deployment</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-      <picture>
-          <source media="(prefers-color-scheme: dark)" srcset='https://skillicons.dev/icons?i=planetscale%2Cvercel%2Cnetlify&theme=dark' />
-          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset='https://skillicons.dev/icons?i=planetscale%2Cvercel%2Cnetlify&theme=light' />
-          <img src='https://skillicons.dev/icons?i=planetscale%2Cvercel%2Cnetlify' alt="learning" />
-        </picture>
+  <a href="https://planetscale.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=planetscale" alt="PlanetScale" title="PlanetScale" />
   </a>
-<br />
-<a href="https://www.logalert.app">
-  <img src='https://img.shields.io/badge/Log-Alert-ca3e54?labelColor=5512ca&style=for-the-badge' alt="learning" />
-</a>
+  <a href="https://vercel.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" title="Vercel" />
+  </a>
+  <a href="https://www.netlify.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" title="Netlify" />
+  </a>
+  <br />
+  <a href="https://www.logalert.app" target="_blank">
+    <img src="https://img.shields.io/badge/Log-Alert-ca3e54?labelColor=5512ca&style=for-the-badge" alt="Log Alert" title="Log Alert" />
+  </a>
 </p>
 <hr />
 
@@ -194,7 +194,6 @@
 </div>
 
 <!-- spaces -->
-
 <br /><br /><br /><br /><br /><br />
 
 <!-- show more repos -->
