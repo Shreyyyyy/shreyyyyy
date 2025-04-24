@@ -10,17 +10,21 @@
 
 <br />
 <!-- about me -->
+<h1 align="center">Hi 👋, I'm Shreyans Jain</h1>
+<h3 align="center">Full Stack Developer 💻 | Coder 👨‍💻 | Learner 📘 | Guitarist 🎸 from India 🇮🇳</h3>
+
+---
+
+- 🎓 Currently pursuing my **Master's degree**
+- 💻 Passionate about learning **new technologies and frameworks**
+- 🚀 Actively working on **CI/CD Projects**
+
+---
+
 <p align="center">
-  Hi, I'm Shreyans Jain, Full Stack Developer/Coder 💻,  Learner 👨‍💻 &  Guitarist 🎸🎵 from India 🇮🇳.
-  <br />
-  <br />
-  🎓 Currently a Masters student.
-  <br />
-  💻 I love to learn new technologies and frameworks.
-  <br />
-  🧑‍💼 I’m currently working on CI/CD Projects.
-  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Code.+Build.+Deploy.+Repeat.;Lifelong+Learner+%F0%9F%93%9A;Music+Lover+%F0%9F%8E%B5;Always+Coding+Something+Cool+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
+
 
 <!-- social handles -->
 <div align="center"> 
