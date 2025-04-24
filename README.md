@@ -11,11 +11,11 @@
 <br />
 <!-- about me -->
 <h1 align="center">Hi 👋, I'm Shreyans Jain</h1>
-<h3 align="center">Full Stack Developer 💻 | Coder 👨‍💻 | Learner 📘 | Guitarist 🎸 from India 🇮🇳</h3>
+<h3 align="center">Agentic AI Developer 💻 | Coder 👨‍💻 | Learner 📘 | from India 🇮🇳</h3>
 
 ---
 
-- 🎓 Currently pursuing my **Master's degree**
+- 🎓 Did ** MCA Master's degree**
 - 💻 Passionate about learning **new technologies and frameworks**
 - 🚀 Actively working on **CI/CD Projects**
 
