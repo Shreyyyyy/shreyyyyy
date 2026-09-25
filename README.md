@@ -1,288 +1,285 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=SHREYYYYY&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=⚡%20GEN%20AI%20ENGINEER%20⚡&descSize=25&descAlignY=65&color=gradient" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=42&duration=1200&pause=300&color=FF00FF&center=true&vCenter=true&width=1000&lines=WASSUP+STALKERS+%F0%9F%98%8E;I'M+SHREYYYYY;YES%2C+I+BUILD+AI+%F0%9F%A4%96;NO%2C+I+DON'T+SLEEP+%F0%9F%98%AD" />
 
-<br/>
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=1800&pause=500&color=FF00FF&center=true&vCenter=true&width=1000&lines=%F0%9F%A4%96+INITIALIZING+AI+CORE...;%E2%9A%A1+LOADING+AGENTIC+SYSTEMS...;%F0%9F%A7%A0+MULTI-AGENT+ARCHITECTURE+ONLINE;%F0%9F%94%A5+RAG+%7C+LLMs+%7C+GENAI+%7C+VOICE+AI;%F0%9F%9A%80+WELCOME+TO+SHREY'S+LAB" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=800&pause=200&color=00FFFF&center=true&width=900&lines=%3E+booting+shreyans.exe...;%3E+loading+brain...;%3E+loading+agents...;%3E+loading+coffee...;%3E+SYSTEM+READY+%E2%9C%93"/>
 
-<br/><br/>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=shreyyyyy&style=for-the-badge&color=ff00ff&label=👁️%20YOU%20ARE%20VISITOR%20%23"/>
-
-<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=shreyyyyy&style=for-the-badge&color=FF00FF&label=STALKERS"/>
 
 </div>
 
----
-
-<div align="center">
-
-# 🧬 `SHREY.OS`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=600&color=00FFFF&center=true&vCenter=true&width=900&lines=%3E+SYSTEM.STATUS%3A+ONLINE;%3E+AI.CORE%3A+ACTIVE;%3E+AGENTS%3A+SPAWNING...;%3E+MODELS%3A+CONNECTED;%3E+HUMAN%3A+SHREYANS+JAIN;%3E+MISSION%3A+BUILD+THE+FUTURE" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/🧠_THINK-FF00FF?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/⚡_BUILD-00FFFF?style=for-the-badge&logoColor=black"/>
-<img src="https://img.shields.io/badge/🔥_BREAK-FF0055?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/🚀_SHIP-7C00FF?style=for-the-badge&logoColor=white"/>
-
-</div>
-
----
-
-# 🧠 `> WHO_IS_SHREY`
-
-<table>
-<tr>
-<td width="55%">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2000&pause=700&color=00FFFF&width=600&lines=%24+cat+shrey.txt;%3E+GenAI+Engineer;%3E+Agentic+AI+Builder;%3E+LLM+Systems+Engineer;%3E+Python+Addict;%3E+Professional+Bug+Creator;%3E+Professional+Bug+Destroyer"/>
-
-<br/>
+<br>
 
 ```text
-╔══════════════════════════════════╗
-║          SHREYANS JAIN           ║
-╠══════════════════════════════════╣
-║ 🧠 GenAI Engineer                ║
-║ 🤖 Agentic AI Builder            ║
-║ ⚡ LLM Systems                   ║
-║ 🔥 Multi-Agent Architect         ║
-║ 🎙️ Voice AI                     ║
-║ 🎬 Generative Media              ║
-║ ☕ Powered by curiosity           ║
-╚══════════════════════════════════╝
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│   ███████╗██╗  ██╗██████╗ ███████╗██╗   ██╗                │
+│   ██╔════╝██║  ██║██╔══██╗██╔════╝╚██╗ ██╔╝                │
+│   ███████╗███████║██████╔╝█████╗   ╚████╔╝                 │
+│   ╚════██║██╔══██║██╔══██╗██╔══╝    ╚██╔╝                  │
+│   ███████║██║  ██║██║  ██║███████╗   ██║                   │
+│   ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝   ╚═╝                   │
+│                                                              │
+│                 ARTIFICIAL INTELLIGENCE                      │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
 ```
-
-</td>
-
-<td width="45%" align="center">
-
-<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="350"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1800&pause=500&color=FF00FF&center=true&width=400&lines=I+BUILD+AI.;I+BREAK+AI.;I+FIX+AI.;I+REPEAT." />
-
-</td>
-</tr>
-</table>
-
----
-
-# 🌈 `> AI_CORE.EXE`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" />
+### `⚠️ WARNING: HUMAN DETECTED`
 
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1700&pause=400&color=00FF88&center=true&width=850&lines=GenAI+Engineer+%7C+Agentic+AI+Builder;Making+LLMs+talk+to+each+other+since+forever;Turning+%22what+if%22+into+%22holy+shit+it+works%22"/>
 
-<img src="https://img.shields.io/badge/LANGGRAPH-FF00FF?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/LANGCHAIN-00FFFF?style=for-the-badge&logoColor=black"/>
-<img src="https://img.shields.io/badge/GEMINI-7C00FF?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/GOOGLE_ADK-FF0055?style=for-the-badge&logo=google&logoColor=white"/>
+</div>
+
+---
+
+<div align="center">
+
+# 🧠 `MY BRAIN CURRENTLY RUNS ON`
+
+<img src="https://img.shields.io/badge/PYTHON-00FFFF?style=for-the-badge&logo=python&logoColor=black"/>
+<img src="https://img.shields.io/badge/LANGGRAPH-FF00FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GEMINI-7C00FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GOOGLE_ADK-FF0055?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RAG-00FF88?style=for-the-badge&logoColor=black"/>
 <img src="https://img.shields.io/badge/MCP-FF8800?style=for-the-badge&logoColor=black"/>
 
-<br/><br/>
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,docker,gcp,redis,git,github,linux&theme=dark"/>
+<img src="https://img.shields.io/badge/LLMs-YES-FF00FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AGENTS-MANY-00FFFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SLEEP-404-FF0055?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/COFFEE-∞-7C00FF?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🤯 `AGENT_FACTORY`
+# `> cat /about/shrey`
+
+```python
+me = {
+    "name": "Shreyans Jain",
+    "job": "GenAI Engineer",
+    "specialization": [
+        "Agentic AI",
+        "Multi-Agent Systems",
+        "LLM Applications",
+        "RAG",
+        "Voice AI"
+    ],
+    "current_obsession": "making agents do things",
+    "favorite_question": "can we automate this?",
+    "answer": "probably.",
+    "status": "building..."
+}
+```
+
+<br>
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=23&duration=1300&pause=300&color=FF00FF&center=true&width=900&lines=I+don't+build+chatbots.;I+build+systems+that+build+things.;I+make+LLMs+use+tools.;I+make+agents+talk.;I+make+agents+fight.;I+make+them+behave+eventually." />
+
+</div>
+
+---
+
+# 🤖 `AGENTS > CHATBOTS`
+
 ```text
-                           ┌───────────────────────┐
-                           │      👤 HUMAN         │
-                           │       "DO STUFF"      │
-                           └───────────┬───────────┘
-                                       │
-                                       ▼
-                         ╔════════════════════════╗
-                         ║     🧠 MASTER AGENT    ║
-                         ╚═══════════╤════════════╝
-                                     │
-                 ┌───────────────────┼───────────────────┐
-                 │                   │                   │
-                 ▼                   ▼                   ▼
-        ╔══════════════╗     ╔══════════════╗     ╔══════════════╗
-        ║ 🔍 RAG AGENT ║     ║ 💻 SQL AGENT ║     ║ 🔮 FORECAST  ║
-        ╚══════╤═══════╝     ╚══════╤═══════╝     ╚══════╤═══════╝
-               │                    │                    │
-               └────────────────────┼────────────────────┘
-                                    ▼
-                         ╔════════════════════╗
-                         ║ 🛡️ GUARDRAIL CORE ║
-                         ╚══════════╤═════════╝
-                                    │
-                                    ▼
-                         ╔════════════════════╗
-                         ║ ⚡ EXECUTION ENGINE ║
-                         ╚══════════╤═════════╝
-                                    │
-                                    ▼
-                           🚀 RESULT TO HUMAN
+                         YOU
+                          │
+                          ▼
+                   ┌─────────────┐
+                   │   MASTER    │
+                   │    AGENT    │
+                   └──────┬──────┘
+                          │
+           ┌──────────────┼──────────────┐
+           │              │              │
+           ▼              ▼              ▼
+      ┌─────────┐    ┌─────────┐    ┌─────────┐
+      │   RAG   │    │   SQL   │    │ FORECAST│
+      │  AGENT  │    │  AGENT  │    │  AGENT  │
+      └────┬────┘    └────┬────┘    └────┬────┘
+           │              │              │
+           └──────────────┼──────────────┘
+                          │
+                          ▼
+                   ┌─────────────┐
+                   │  GUARDRAIL  │
+                   │   🛡️ CORE   │
+                   └──────┬──────┘
+                          │
+                          ▼
+                       RESULT
+```
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=700&pause=150&color=00FFFF&center=true&width=900&lines=%5BMASTER%5D+thinking...;%5BRAG%5D+searching...;%5BSQL%5D+generating...;%5BFORECAST%5D+predicting...;%5BGUARDRAIL%5D+checking...;%5BSYSTEM%5D+EXECUTING...;%5BSYSTEM%5D+DONE+%E2%9C%93"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 💀 `THINGS I'VE BEEN BREAKING`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=1400&pause=350&color=00FF88&center=true&width=950&lines=%F0%9F%A4%96+Multi-Agent+AI+Systems;%F0%9F%94%8D+RAG+Pipelines;%F0%9F%8E%99%EF%B8%8F+Real-Time+Voice+AI;%F0%9F%8E%AC+Generative+Video+Pipelines;%F0%9F%93%8A+Natural+Language+Analytics;%F0%9F%94%A5+Production+LLM+Applications"/>
+
+</div>
+
+---
+
+# 🚀 `PROJECTS THAT ESCAPED THE LAB`
+
+### 🧪 `finTrack`
+
+```text
+STATUS     ████████████████████ 100%
+PRIVACY    ████████████████████ 100%
+COST       ████████████████████ $0
+VIBES      ████████████████████ ∞
+```
+
+**Next.js + Supabase + PostgreSQL + PWA**
+
+> I wanted a personal expense tracker.
+> So obviously I built one.
+
+---
+
+### 🧬 `Research Trends`
+
+```text
+INPUT
+  ↓
+RESEARCH
+  ↓
+DATA
+  ↓
+AI
+  ↓
+VISUALIZATION
+  ↓
+"oh that's actually cool"
+```
+
+---
+
+### 🎙️ `VOICE AI`
+
+```text
+MIC
+ ↓
+VAD
+ ↓
+WHISPER
+ ↓
+LLM
+ ↓
+TTS
+ ↓
+SPEAKER
+
+TARGET: < 1 SECOND
+```
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=20&duration=900&pause=200&color=FF0055&center=true&width=850&lines=LISTEN.;THINK.;SPEAK.;REPEAT.;%F0%9F%8E%99%EF%B8%8F+VOICE+AI+ONLINE."/>
+
+</div>
+
+---
+
+# 🌈 `TECH STACK.EXE`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,gcp,postgres,redis,git,github,linux,nextjs,react,typescript&perline=7&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/LANGGRAPH-FF00FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LANGCHAIN-00FFFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GEMINI-7C00FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GOOGLE_ADK-FF0055?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/QDRANT-FF0088?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MCP-00FF88?style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 📡 `LIVE FROM THE LAB`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=18&duration=650&pause=150&color=00FF88&center=true&width=900&lines=%5B10%3A47%3A01%5D+Agent+spawned;%5B10%3A47%3A02%5D+Tool+selected;%5B10%3A47%3A03%5D+Retrieval+complete;%5B10%3A47%3A04%5D+LLM+thinking;%5B10%3A47%3A05%5D+Response+generated;%5B10%3A47%3A06%5D+another+bug+found+%F0%9F%98%AD"/>
+
+<br><br>
+
+```text
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║       ██████╗ ██╗    ██╗ ███████╗██████╗ ██╗   ██╗     ║
+║      ██╔═══██╗██║    ██║ ██╔════╝██╔══██╗╚██╗ ██╔╝     ║
+║      ██║   ██║██║ █╗ ██║ █████╗  ██████╔╝ ╚████╔╝      ║
+║      ██║   ██║██║███╗██║ ██╔══╝  ██╔══██╗  ╚██╔╝       ║
+║      ╚██████╔╝╚███╔███╔╝ ███████╗██║  ██║   ██║        ║
+║       ╚═════╝  ╚══╝╚══╝  ╚══════╝╚═╝  ╚═╝   ╚═╝        ║
+║                                                          ║
+║                  BUILD. BREAK. REPEAT.                   ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
-<br/>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=21&duration=1200&pause=300&color=00FF88&center=true&width=900&lines=%5BAGENT_01%5D+ONLINE+%E2%9C%93;%5BAGENT_02%5D+ONLINE+%E2%9C%93;%5BAGENT_03%5D+ONLINE+%E2%9C%93;%5BGUARDRAIL%5D+ARMED+%F0%9F%9B%A1%EF%B8%8F;%5BMASTER%5D+ORCHESTRATING...;%5BSYSTEM%5D+READY+%F0%9F%9A%80"/>
-
-</div>
-
 ---
 
-# 🧪 `PROJECTS_FROM_THE_LAB`
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyyyyy&repo=finTrack&theme=radical&hide_border=true&bg_color=00000000&title_color=00FFFF&icon_color=FF00FF"/>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyyyyy&repo=research-trends&theme=radical&hide_border=true&bg_color=00000000&title_color=00FFFF&icon_color=FF00FF"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 💰 `FINTRACK`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=700&color=00FF88&center=true&width=800&lines=Privacy-first+financial+intelligence.;Next.js+%2B+Supabase+%2B+PostgreSQL;%F0%9F%92%B8+Track.+Analyze.+Control." />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 🔬 `RESEARCH TRENDS`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=700&color=FF00FF&center=true&width=800&lines=Turning+research+into+something+you+can+actually+explore.;AI+%2B+Next.js+%2B+Data+Visualization;%F0%9F%94%AC+Explore.+Discover.+Understand." />
-
-</div>
-
----
-
-# 🎙️ `VOICE_AI_LAB`
-
-<div align="center">
-
-```text
-       🎙️
-        │
-        ▼
-   ┌──────────┐
-   │   VAD    │
-   └────┬─────┘
-        │
-        ▼
-   ┌──────────┐
-   │   STT    │
-   │ WHISPER  │
-   └────┬─────┘
-        │
-        ▼
-   ┌──────────┐
-   │   LLM    │
-   │  GEMINI  │
-   └────┬─────┘
-        │
-        ▼
-   ┌──────────┐
-   │   TTS    │
-   └────┬─────┘
-        │
-        ▼
-      🔊
-
-       < 1s
-     LATENCY 🚀
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=1600&pause=400&color=00FFFF&center=true&width=850&lines=REAL-TIME+VOICE+AI;APPLE+SILICON+OPTIMIZED;%3C+1s+TARGET+LATENCY;SPEECH+%E2%86%92+THOUGHT+%E2%86%92+VOICE"/>
-
-</div>
-
----
-
-# 📊 `SYSTEM_TELEMETRY`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Shreyyyyy&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyyyyy&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=00FFFF&text_color=FFFFFF"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyyyyy&theme=radical&hide_border=true&background=00000000&ring=FF00FF&fire=00FFFF&currStreakLabel=FF00FF"/>
-
-</div>
-
----
-
-# 🐍 `THE_SNAKE_IS_HUNGRY`
-
-<div align="center">
+# 🐍 `THE SNAKE KNOWS`
 
 <img src="https://raw.githubusercontent.com/Shreyyyyy/Shreyyyyy/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-<br/>
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=18&duration=1300&pause=300&color=FF0055&center=true&width=700&lines=CONTRIBUTIONS+DETECTED...;%F0%9F%90%8D+SNAKE+DEPLOYED;%F0%9F%94%A5+EATING+THE+GRID...;%E2%9A%A0%EF%B8%8F+NO+COMMIT+LEFT+BEHIND"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=17&duration=600&pause=100&color=FF00FF&center=true&width=800&lines=SNAKE.EXE+STARTED;%F0%9F%90%8D+EATING+COMMITS...;%F0%9F%90%8D+MORE+COMMITS...;%F0%9F%90%8D+STILL+HUNGRY..."/>
 
 </div>
 
 ---
 
-# 🌌 `CONNECT_TO_SHREY`
-
 <div align="center">
 
+# 🔥 `IF YOU'RE STILL HERE...`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&duration=1000&pause=250&color=00FFFF&center=true&width=900&lines=YOU+JUST+PASSED+THE+LORE.;%F0%9F%91%80+WELCOME+TO+THE+LAB.;%E2%9A%A1+NOW+GO+BUILD+SOMETHING+INSANE." />
+
+<br><br>
+
 <a href="https://github.com/Shreyyyyy">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/%E2%98%A0%EF%B8%8F%20ENTER%20THE%20LAB-FF00FF?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/shreyans-jain-9255351a7/">
-<img src="https://img.shields.io/badge/LINKEDIN-0077FF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/%F0%9F%A4%9D%20CONNECT-00FFFF?style=for-the-badge&logoColor=black"/>
 </a>
 
-<a href="https://medium.com/@shreyans.jain_45335">
-<img src="https://img.shields.io/badge/MEDIUM-FF00FF?style=for-the-badge&logo=medium&logoColor=FFFFFF"/>
-</a>
+<br><br>
 
-<a href="https://twitter.com/shreyans_jain">
-<img src="https://img.shields.io/badge/X-00FFFF?style=for-the-badge&logo=x&logoColor=000000"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&duration=1000&pause=250&color=FF00FF&center=true&width=900&lines=%3E+THANKS+FOR+ENTERING+THE+LAB.;%3E+NOW+GO+BUILD+SOMETHING+INSANE.;%3E+%E2%9A%A1+THE+FUTURE+IS+AGENTIC.;%3E+SHREY.OS+%E2%9C%94%EF%B8%8F"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=gradient&animation=twinkling"/>
+<img src="https://komarev.com/ghpvc/?username=shreyyyyy&style=for-the-badge&color=00FF88&label=YOU+WERE+HERE"/>
 
 </div>
