@@ -1,206 +1,355 @@
-<!-- profile view count -->
-<img align="right" src="https://komarev.com/ghpvc/?username=shreyyyyy">
-
-<!-- introduction -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Wassup+Stalkers!+😎;+Myself+Shreyyyyy!;&size=30&color=2C8C84">
-  </a>
-</h1>
-
-<br />
-<!-- about me -->
-<h1 align="center">Hi 👋, I'm Shreyans Jain</h1>
-<h3 align="center">Agentic AI Developer 💻 | Coder 👨‍💻 | Learner 📘 | from India 🇮🇳</h3>
-
----
-
-- 🎓 Did ** MCA Master's degree**
-- 💻 Passionate about learning **new technologies and frameworks**
-- 🚀 Actively working on **CI/CD Projects**
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Code.+Build.+Deploy.+Repeat.;Lifelong+Learner+%F0%9F%93%9A;Music+Lover+%F0%9F%8E%B5;Always+Coding+Something+Cool+%F0%9F%92%BB" alt="Typing SVG" />
-</p>
-
-
-<!-- social handles -->
-<div align="center"> 
-  <!-- Medium -->
-  <a href="https://medium.com/@shreyans.jain_45335" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/shreyans-jain-9255351a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <!-- Twitter -->
-  <a href="https://twitter.com/shreyans_jain" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a> 
-  <!-- GitHub -->
-  <a href="https://github.com/shreyyyyy" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-</div>
-
-<hr />
-<!-- skills -->
-<h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
-<br />
-<p align="center">
-  <!-- First Row -->
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" />
-  </a>
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" title="JavaScript" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma" />
-  </a>
-  <a href="https://threejs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=threejs" alt="Three.js" title="Three.js" />
-  </a>
-  <br />
-  <!-- Second Row -->
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=express" alt="Express" title="Express" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" />
-  </a>
-  <a href="https://redux.js.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=redux" alt="Redux" title="Redux" />
-  </a>
-  <a href="https://www.prisma.io/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" title="Prisma" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" title="Firebase" />
-  </a>
-  <a href="https://supabase.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" title="Supabase" />
-  </a>
-</p>
-<br />
-
-<!-- deployment -->
-<h3 align="center">Deployment</h3>
-<p align="center">
-  <a href="https://planetscale.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=planetscale" alt="PlanetScale" title="PlanetScale" />
-  </a>
-  <a href="https://vercel.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" title="Vercel" />
-  </a>
-  <a href="https://www.netlify.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" title="Netlify" />
-  </a>
-  <br />
-  <a href="https://www.logalert.app" target="_blank">
-    <img src="https://img.shields.io/badge/Log-Alert-ca3e54?labelColor=5512ca&style=for-the-badge" alt="Log Alert" title="Log Alert" />
-  </a>
-</p>
-<hr />
-
-<!-- snake graph -->
 <div align="center">
-  <h2>🐍 Snake eating someone's contribution 🐍</h2>
-  <br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="github-contribution-grid-snake.svg" />
-    <img src="github-contribution-grid-snake.svg" alt="github-snake" />
-  </picture>
-  <br />
-  <br />
-  <br />
-</div>
 
-<hr />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,50:111827,100:00D4FF&text=SHREYYYYY&fontColor=FFFFFF&fontSize=52&fontAlignY=40&desc=GenAI%20%7C%20Agentic%20AI%20%7C%20LLM%20Systems&descAlignY=60&descSize=18&animation=twinkling" width="100%"/>
 
-<!-- repositories -->
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br />
-<!-- first row -->
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<br/>
 
-  <!-- repo 1 -->
-  <div style="width: 45%; display: flex; flex-direction: column; align-items: center;">
-    <a href="https://github.com/Shreyyyyy/Revolutionizing-Restaurant-Recommendations-using-neural-network" title="Restaurant Recommendation">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shreyyyyy&repo=Revolutionizing-Restaurant-Recommendations-using-neural-network&theme=react&border_color=2C8C83&border_radius=10" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shreyyyyy&repo=Revolutionizing-Restaurant-Recommendations-using-neural-network&theme=graywhite&border_color=2C8C83&border_radius=10" />
-        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyyyyy&repo=Revolutionizing-Restaurant-Recommendations-using-neural-network&theme=graywhite&border_color=2C8C83&border_radius=10" alt="shrey's repository stats - Restaurant Recommendation" />
-      </picture>
-    </a>
-    <p>Neural network-based restaurant recommendation system for personalized dining suggestions.</p>
-  </div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=00D4FF&center=true&vCenter=true&width=750&lines=Building+AI+Agents+that+actually+DO+things+%F0%9F%A4%96;Multi-Agent+Systems+%7C+RAG+%7C+LLMs+%7C+GenAI;Turning+Natural+Language+into+Production+Systems;LangGraph+%2B+Gemini+%2B+Google+ADK+%2B+Python;I+don't+just+use+AI.+I+build+the+systems+behind+it." alt="Typing SVG" />
 
-  <!-- repo 2 -->
-  <div style="width: 45%; display: flex; flex-direction: column; align-items: center;">
-    <a href="https://github.com/Shreyyyyy/portfolio-using-nextjs-mern" title="Modern Portfolio">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shreyyyyy&repo=portfolio-using-nextjs-mern&theme=react&border_color=2C8C83&border_radius=10" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shreyyyyy&repo=portfolio-using-nextjs-mern&theme=graywhite&border_color=2C8C83&border_radius=10" />
-        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyyyyy&repo=portfolio-using-nextjs-mern&theme=graywhite&border_color=2C8C83&border_radius=10" alt="shrey's repository stats - Modern Portfolio" />
-      </picture>
-    </a>
-    <p>Personal portfolio website built using Next.js and MERN stack for showcasing projects.</p>
-  </div>
+<br/><br/>
 
-  <!-- repo 3 -->
-  <div style="width: 45%; display: flex; flex-direction: column; align-items: center;">
-    <a href="https://github.com/Shreyyyyy/Hospital-Length-of-Stay-Prediction-App-using-XGBoost-and-Streamlit" title="Hospital Length of Stay">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shreyyyyy&repo=Hospital-Length-of-Stay-Prediction-App-using-XGBoost-and-Streamlit&theme=react&border_color=2C8C83&border_radius=10" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shreyyyyy&repo=Hospital-Length-of-Stay-Prediction-App-using-XGBoost-and-Streamlit&theme=graywhite&border_color=2C8C83&border_radius=10" />
-        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyyyyy&repo=Hospital-Length-of-Stay-Prediction-App-using-XGBoost-and-Streamlit&theme=graywhite&border_color=2C8C83&border_radius=10" alt="shrey's repository stats - Hospital Length of Stay" />
-      </picture>
-    </a>
-    <p>Predicting hospital length of stay using XGBoost and Streamlit for better resource management.</p>
-  </div>
+<a href="https://github.com/Shreyyyyy">
+<img src="https://komarev.com/ghpvc/?username=shreyyyyy&style=for-the-badge&color=00D4FF&label=PROFILE+VIEWS"/>
+</a>
 
-  <!-- repo 4 -->
-  <div style="width: 45%; display: flex; flex-direction: column; align-items: center;">
-    <a href="https://github.com/Shreyyyyy/passco-sc" title="PASSCO SC">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shreyyyyy&repo=passco-sc&theme=react&border_color=2C8C83&border_radius=10" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shreyyyyy&repo=passco-sc&theme=graywhite&border_color=2C8C83&border_radius=10" />
-        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyyyyy&repo=passco-sc&theme=graywhite&border_color=2C8C83&border_radius=10" alt="shrey's repository stats - PASSCO SC" />
-      </picture>
-    </a>
-    <p>Service Center management system designed for government operations in India.</p>
-  </div>
+<a href="https://github.com/Shreyyyyy?tab=followers">
+<img src="https://img.shields.io/github/followers/Shreyyyyy?style=for-the-badge&color=111827&labelColor=00D4FF&label=FOLLOWERS"/>
+</a>
 
 </div>
 
-<!-- spaces -->
-<br /><br /><br /><br /><br /><br />
+---
 
-<!-- show more repos -->
-<h4 align="center">
-  <a href="https://github.com/Shreyyyyy?tab=repositories" title="Show Repositories" style="color:#2C8C83; font-weight:bold; transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)'">🔎 Show More 🔍</a>
-</h4>
+## `> whoami`
+
+```python
+class ShreyansJain:
+
+    role = "GenAI Engineer"
+    focus = [
+        "Agentic AI",
+        "Multi-Agent Systems",
+        "LLM Applications",
+        "RAG",
+        "AI Automation"
+    ]
+
+    building = [
+        "Production AI Agents",
+        "Enterprise GenAI Systems",
+        "AI-powered Workflows",
+        "Voice AI",
+        "LLM Applications"
+    ]
+
+    philosophy = "Build systems, not demos."
+```
+
+### ⚡ Currently
+
+* 🧠 Building **production-grade GenAI & Agentic AI systems**
+* 🤖 Designing **multi-agent architectures with LangGraph & Google ADK**
+* 🔍 Building **RAG + retrieval pipelines**
+* 🎬 Experimenting with **AI-generated video & creative workflows**
+* 🎙️ Building **low-latency Voice AI systems**
+* ☁️ Deploying AI workloads from **local Apple Silicon → cloud GPUs**
+* 🛠️ Turning messy business problems into **AI systems that actually work**
+
+---
+
+# 🧠 AI ENGINEERING STACK
+
+<div align="center">
+
+### 🤖 AI / Agents
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/LangGraph-1C1C1C?style=for-the-badge&logo=langchain&logoColor=00D4FF"/>
+<img src="https://img.shields.io/badge/LangChain-1C1C1C?style=for-the-badge&logo=chainlink&logoColor=00D4FF"/>
+<img src="https://img.shields.io/badge/Google%20ADK-1C1C1C?style=for-the-badge&logo=google&logoColor=4285F4"/>
+<img src="https://img.shields.io/badge/Gemini-1C1C1C?style=for-the-badge&logo=googlegemini&logoColor=8E75FF"/>
+<img src="https://img.shields.io/badge/RAG-1C1C1C?style=for-the-badge&logoColor=00D4FF"/>
+<img src="https://img.shields.io/badge/Multi--Agent%20Systems-1C1C1C?style=for-the-badge&logoColor=00D4FF"/>
+
+<br/><br/>
+
+### 🧩 Backend / Data
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,sqlite,docker,redis&theme=dark" />
+
+<br/><br/>
+
+### 🌐 Full Stack
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,nodejs,tailwind&theme=dark" />
+
+<br/><br/>
+
+### ☁️ Infrastructure
+
+<img src="https://skillicons.dev/icons?i=gcp,docker,git,github,vercel,linux&theme=dark" />
+
+</div>
+
+---
+
+# 🏗️ WHAT I'M BUILDING
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 Agentic AI
+
+Designing systems where agents can:
+
+```text
+Understand
+   ↓
+Reason
+   ↓
+Plan
+   ↓
+Use Tools
+   ↓
+Delegate
+   ↓
+Verify
+   ↓
+Execute
+```
+
+**Stack**
+
+`LangGraph` · `Google ADK` · `Gemini` · `MCP` · `Python`
+
+</td>
+
+<td width="50%">
+
+### 🔎 Intelligent Retrieval
+
+Building retrieval systems that intelligently decide:
+
+```text
+        User Query
+             │
+             ▼
+       Intent Router
+        /    |    \
+       /     |     \
+     KB     WEB    LLM
+      │       │      │
+      └───────┼──────┘
+              ▼
+        Final Response
+```
+
+**Stack**
+
+`RAG` · `Qdrant` · `Embeddings` · `LLMs`
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🎬 AI Creative Systems
+
+Working with agentic pipelines for:
+
+* Story generation
+* Storyboards
+* Character consistency
+* Image generation
+* Video generation
+* Asset orchestration
+
+**Stack**
+
+`Gemini` · `LangGraph` · `Google ADK`
+
+</td>
+
+<td>
+
+### 🎙️ Voice AI
+
+Building low-latency voice systems:
+
+```text
+Audio
+ ↓
+VAD
+ ↓
+STT
+ ↓
+LLM
+ ↓
+TTS
+ ↓
+Audio
+```
+
+Optimized for **Apple Silicon** and real-time interaction.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🚀 FEATURED PROJECTS
+
+<div align="center">
+
+<a href="https://github.com/Shreyyyyy/finTrack">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyyyyy&repo=finTrack&theme=github_dark&hide_border=true&bg_color=050505&title_color=00D4FF&icon_color=00D4FF" />
+</a>
+
+<a href="https://github.com/Shreyyyyy/research-trends">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyyyyy&repo=research-trends&theme=github_dark&hide_border=true&bg_color=050505&title_color=00D4FF&icon_color=00D4FF" />
+</a>
+
+</div>
+
+<br/>
+
+### 💰 finTrack
+
+> Privacy-first personal finance intelligence platform.
+
+`Next.js` · `Supabase` · `PostgreSQL` · `PWA` · `Google OAuth`
+
+Features:
+
+* ⚡ Instant expense logging
+* 📊 Financial analytics
+* 🎯 Budget & goal tracking
+* 📱 iPhone-friendly PWA
+* 🔐 Row-level security
+* 📤 Excel export
+
+---
+
+### 🔬 Research Trends Explorer
+
+> Explore and understand research trends through an interactive AI-powered interface.
+
+`Next.js` · `AI` · `Data Visualization`
+
+---
+
+# 🧬 HOW I THINK ABOUT AI SYSTEMS
+
+<div align="center">
+
+```text
+                    ┌────────────────────┐
+                    │     USER INPUT     │
+                    └─────────┬──────────┘
+                              │
+                              ▼
+                    ┌────────────────────┐
+                    │   GUARDRAIL /      │
+                    │   VERIFICATION     │
+                    └─────────┬──────────┘
+                              │
+                              ▼
+                    ┌────────────────────┐
+                    │    MASTER AGENT    │
+                    └─────────┬──────────┘
+                              │
+              ┌───────────────┼───────────────┐
+              ▼               ▼               ▼
+        ┌──────────┐    ┌──────────┐    ┌──────────┐
+        │  Agent A │    │  Agent B │    │  Agent C │
+        │   RAG    │    │   SQL    │    │ Forecast │
+        └──────────┘    └──────────┘    └──────────┘
+              │               │               │
+              └───────────────┼───────────────┘
+                              ▼
+                    ┌────────────────────┐
+                    │     VERIFY /       │
+                    │     OBSERVE        │
+                    └─────────┬──────────┘
+                              │
+                              ▼
+                    ┌────────────────────┐
+                    │   FINAL RESPONSE   │
+                    └────────────────────┘
+```
+
+</div>
+
+---
+
+# 📊 GITHUB ACTIVITY
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Shreyyyyy&show_icons=true&hide_border=true&bg_color=050505&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&ring_color=00D4FF" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyyyyy&layout=compact&hide_border=true&bg_color=050505&title_color=00D4FF&text_color=FFFFFF" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyyyyy&theme=dark&hide_border=true&background=050505&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" />
+
+</div>
+
+---
+
+# 🐍 CONTRIBUTION MATRIX
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Shreyyyyy/Shreyyyyy/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</div>
+
+---
+
+# 🌐 FIND ME
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/shreyans-jain-9255351a7/">
+<img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00D4FF"/>
+</a>
+
+<a href="https://github.com/Shreyyyyy">
+<img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+
+<a href="https://medium.com/@shreyans.jain_45335">
+<img src="https://img.shields.io/badge/Medium-050505?style=for-the-badge&logo=medium&logoColor=FFFFFF"/>
+</a>
+
+<a href="https://twitter.com/shreyans_jain">
+<img src="https://img.shields.io/badge/X-050505?style=for-the-badge&logo=x&logoColor=FFFFFF"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### `01:00 AM`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Still+debugging+the+agent...;Still+building...;Still+breaking+things...;Still+learning...;Still+shipping+%F0%9F%9A%80" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00D4FF,50:111827,100:050505" width="100%"/>
+
+</div>
